@@ -86,9 +86,6 @@ This was built against an AWS Academy Learner Lab sandbox, so live endpoints are
 
 Set your own AWS credentials via the AWS CLI (`aws configure`) — never commit credentials to this repo.
 
-## 👥 Team
-
-Group project — COSC2610 Cloud Computing, RMIT University.
 
 ## 📄 License
 
