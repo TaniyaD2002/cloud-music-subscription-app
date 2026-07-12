@@ -24,6 +24,23 @@ All three share:
 └─────────────┘      └──────────────────────────────┘      └──────────────┘
 ```
 
+## 📸 Screenshots
+
+**DynamoDB Tables**
+![DynamoDB Tables](screenshots/dynamodb-tables.png)
+
+**EC2 Instance Running**
+![EC2 Instance](screenshots/ec2-instance.png)
+
+**ECS Fargate Cluster**
+![ECS Cluster](screenshots/ecs-cluster.png)
+
+**Lambda Function**
+![Lambda Function](screenshots/lambda-function.png)
+
+**API Gateway**
+![API Gateway](screenshots/api-gateway.png)
+
 ## 🗄️ Data Model
 
 **`music`** — partition key `title`, sort key `artist_album` (composite `artist#album`)
