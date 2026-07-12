@@ -1,6 +1,6 @@
 # ☁️ Cloud Music Subscription App
 
-A serverless-meets-containerised music subscription platform built on AWS, demonstrating three parallel backend deployment strategies (EC2, ECS/Fargate, and Lambda) hitting a shared DynamoDB data layer — built for RMIT COSC2610 Cloud Computing.
+A serverless-meets-containerised music subscription platform built on AWS, demonstrating three parallel backend deployment strategies (EC2, ECS/Fargate, and Lambda) hitting a shared DynamoDB data layer - built for RMIT COSC2610 Cloud Computing.
 
 ## 🏗️ Architecture
 
@@ -86,9 +86,6 @@ This was built against an AWS Academy Learner Lab sandbox, so live endpoints are
 
 Set your own AWS credentials via the AWS CLI (`aws configure`) — never commit credentials to this repo.
 
-## 👥 Team
-
-Group project — COSC2610 Cloud Computing, RMIT University.
 
 ## 📄 License
 
